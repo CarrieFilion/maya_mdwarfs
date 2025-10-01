@@ -1,0 +1,16 @@
+[2025-09-11 08:57:51,199] [ERROR] [manager:comm_open:46]: No such comm target registered: jupyter.widget.control
+[2025-09-11 08:57:51,202] [WARNING] [base_comm:get_comm:246]: No such comm: 800b89f8-f1fd-4f2e-8921-0898ec4be8ca
+[2025-09-11 08:58:12,859] [ERROR] [manager:comm_open:46]: No such comm target registered: jupyter.widget.control
+[2025-09-11 08:58:12,862] [WARNING] [base_comm:get_comm:246]: No such comm: 2b142e6f-a49f-4a42-a0c3-ad3bf6ccad5c
+[2025-09-11 08:58:25,429] [ERROR] [manager:comm_open:46]: No such comm target registered: jupyter.widget.control
+[2025-09-11 08:58:25,436] [WARNING] [base_comm:get_comm:246]: No such comm: 6fbd8c80-f2de-4349-948b-a667557a4f98
+[2025-09-11 08:59:06,671] [ERROR] [manager:comm_open:46]: No such comm target registered: jupyter.widget.control
+[2025-09-11 08:59:06,691] [WARNING] [base_comm:get_comm:246]: No such comm: d58cba5f-8b09-4515-a9e9-f131f6267d4b
+[2025-09-11 08:59:18,871] [ERROR] [manager:comm_open:46]: No such comm target registered: jupyter.widget.control
+[2025-09-11 08:59:18,875] [WARNING] [base_comm:get_comm:246]: No such comm: 972f0414-8f7a-4e0b-8772-954d347d5fc3
+[2025-09-23 12:26:00,716] [ERROR] [manager:comm_open:46]: No such comm target registered: jupyter.widget.control
+[2025-09-23 12:26:00,718] [WARNING] [base_comm:get_comm:255]: No such comm: 08d9cab2-2ffc-4729-8567-4193f1d88ec2
+[2025-09-26 15:28:58,955] [ERROR] [manager:comm_open:46]: No such comm target registered: jupyter.widget.control
+[2025-09-26 15:28:58,958] [WARNING] [base_comm:get_comm:246]: No such comm: ebb5dbbe-882e-41bc-a518-65af9e44fc0f
+[2025-09-29 15:44:59,720] [ERROR] [manager:comm_open:46]: No such comm target registered: jupyter.widget.control
+[2025-09-29 15:44:59,723] [WARNING] [base_comm:get_comm:246]: No such comm: d1418659-1a29-4a78-a6ae-402c154cbb68
